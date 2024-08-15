@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --color-violet: #8261ee;
+    --color-pink: #ff589e;
+
+    --color-text: #333333;
+    --color-smoke: #f2f2fe;
+    --color-linear: linear-gradient(127deg, #a759d1 0%, #8261ee 91%);
+    --font: 'DM Sans', sans-serif;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font);
+}
+
+
+a {
+    text-decoration: none;
+}
